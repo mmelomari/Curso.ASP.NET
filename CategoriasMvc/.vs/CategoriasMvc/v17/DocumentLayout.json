@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CursoASP.NET\\CategoriasMvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC869B2-6044-4E81-964E-5E229DA9C4B0}|CategoriasMvc\\CategoriasMvc.csproj|d:\\cursoasp.net\\categoriasmvc\\categoriasmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CC869B2-6044-4E81-964E-5E229DA9C4B0}|CategoriasMvc\\CategoriasMvc.csproj|solutionrelative:categoriasmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC869B2-6044-4E81-964E-5E229DA9C4B0}|CategoriasMvc\\CategoriasMvc.csproj|d:\\cursoasp.net\\categoriasmvc\\categoriasmvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CC869B2-6044-4E81-964E-5E229DA9C4B0}|CategoriasMvc\\CategoriasMvc.csproj|solutionrelative:categoriasmvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC869B2-6044-4E81-964E-5E229DA9C4B0}|CategoriasMvc\\CategoriasMvc.csproj|d:\\cursoasp.net\\categoriasmvc\\categoriasmvc\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CC869B2-6044-4E81-964E-5E229DA9C4B0}|CategoriasMvc\\CategoriasMvc.csproj|solutionrelative:categoriasmvc\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC869B2-6044-4E81-964E-5E229DA9C4B0}|CategoriasMvc\\CategoriasMvc.csproj|d:\\cursoasp.net\\categoriasmvc\\categoriasmvc\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CC869B2-6044-4E81-964E-5E229DA9C4B0}|CategoriasMvc\\CategoriasMvc.csproj|solutionrelative:categoriasmvc\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC869B2-6044-4E81-964E-5E229DA9C4B0}|CategoriasMvc\\CategoriasMvc.csproj|d:\\cursoasp.net\\categoriasmvc\\categoriasmvc\\models\\produtoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CC869B2-6044-4E81-964E-5E229DA9C4B0}|CategoriasMvc\\CategoriasMvc.csproj|solutionrelative:categoriasmvc\\models\\produtoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 515,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProdutoService.cs",
+              "DocumentMoniker": "D:\\CursoASP.NET\\CategoriasMvc\\CategoriasMvc\\Services\\ProdutoService.cs",
+              "RelativeDocumentMoniker": "CategoriasMvc\\Services\\ProdutoService.cs",
+              "ToolTip": "D:\\CursoASP.NET\\CategoriasMvc\\CategoriasMvc\\Services\\ProdutoService.cs",
+              "RelativeToolTip": "CategoriasMvc\\Services\\ProdutoService.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAIwGYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T13:55:36.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "D:\\CursoASP.NET\\CategoriasMvc\\CategoriasMvc\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "CategoriasMvc\\Controllers\\ProdutosController.cs",
+              "ToolTip": "D:\\CursoASP.NET\\CategoriasMvc\\CategoriasMvc\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "CategoriasMvc\\Controllers\\ProdutosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T15:04:40.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\CursoASP.NET\\CategoriasMvc\\CategoriasMvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CategoriasMvc\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\CursoASP.NET\\CategoriasMvc\\CategoriasMvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CategoriasMvc\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAwwCMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T14:46:18.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\CursoASP.NET\\CategoriasMvc\\CategoriasMvc\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "CategoriasMvc\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\CursoASP.NET\\CategoriasMvc\\CategoriasMvc\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "CategoriasMvc\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T14:51:29.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProdutoViewModel.cs",
+              "DocumentMoniker": "D:\\CursoASP.NET\\CategoriasMvc\\CategoriasMvc\\Models\\ProdutoViewModel.cs",
+              "RelativeDocumentMoniker": "CategoriasMvc\\Models\\ProdutoViewModel.cs",
+              "ToolTip": "D:\\CursoASP.NET\\CategoriasMvc\\CategoriasMvc\\Models\\ProdutoViewModel.cs",
+              "RelativeToolTip": "CategoriasMvc\\Models\\ProdutoViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T15:04:39.378Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 822,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{605322a2-17ae-43f4-b60f-766556e46c87}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
